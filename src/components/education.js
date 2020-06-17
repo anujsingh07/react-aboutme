@@ -86,14 +86,14 @@ export default class Education extends Component {
                       >
                         <div class="panel-body">
                           <p>
-                            Golden Internaational School,CAT Road, Indore (M.P)
+                            Golden International School,CAT Road, Indore (M.P)
                             </p>
                             <ul>
                                 <li>
                             Year Of Passing: 2014
                             </li>
                             <li>
-                            Marks(%): 83.2
+                            Marks(%): 81.2
                             </li>
                             </ul>
    
